@@ -6,6 +6,7 @@
 <h1 align="center"><b>Little Info;</b></h1>
 - 🔭 I’m currently working as Cyber Security Consultant @Enforsec <br>
 - 👻 Focusing on improving my skills in mobile application security, preparing for certificates and searching for bugs.
+- 👽 Cetrified with eWPTX & eJPT.
 
 <h1 align="center"><b>Contact Information & Blogs;</b></h1>
 - <a href="https://lzzapsecurity.com">LzzapS3curity WebSite (TR & EN) </a><br>
