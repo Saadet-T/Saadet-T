@@ -13,5 +13,5 @@
 - <a href="https://www.linkedin.com/in/saadet-elif-tokuo%C4%9Flu-ab2a59188">Linkedin</a>
 
 <h1>Here is my first CVE;</h1>
-<a href="https://lzzapsecurity.com/tr/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022 & CVE-2024-29023</a>
+<a href="https://lzzapsecurity.com/tr/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022 & CVE-2024-29023 Write-Up</a>
 
