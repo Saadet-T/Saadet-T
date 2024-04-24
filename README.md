@@ -7,14 +7,14 @@
 I specialize in penetration testing, identifying security vulnerabilities, and reporting. With expertise in mobile, API, and web application security, I've developed a Burp Suite extension to enhance security testing. I also have experience creating vulnerable applications with Spring Boot. Skilled in social engineering tests using Gophish and proficient in various security tools like Nessus, Acunetix, Netsparker, IBMAppscan, Burp Suite, Nmap, SQLmap and WebInspect. In the past I've olsa led to a 3-month training program with interns.
   
 <h1 align="center"><b>Little More Info;</b></h1>
-- 🔭 I’m currently working as Cyber Security Consultant @Enforsec <br>
+- 🔭 I’m currently working as Cyber Security Consultant<br>
 - 👻 Focusing on improving my skills in mobile application security, preparing for certificates and searching for bugs.<br>
-- 👽 Certified with eWPTX & eJPT.
+- 👽 Certified with eWPTX , eJPT & CAPen.
 
 <h1 align="center"><b>Contact Information & Blogs;</b></h1>
 - <a href="https://lzzapsecurity.com">LzzapS3curity WebSite (TR & EN) </a><br>
-- <a href="https://www.linkedin.com/in/saadet-elif-tokuo%C4%9Flu-ab2a59188">Linkedin</a>
+- <a href="https://www.linkedin.com/in/saadet-elif">Linkedin</a>
 
-<h1>Here is my first CVE;</h1>
+<h1 align="center">Here is my first CVE;</h1>
 <a href="https://lzzapsecurity.com/tr/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022 & CVE-2024-29023 Write-Up</a>
 
