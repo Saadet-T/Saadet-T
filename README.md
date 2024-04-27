@@ -16,5 +16,5 @@ I specialize in penetration testing, identifying security vulnerabilities, and r
 - <a href="https://www.linkedin.com/in/saadet-elif">Linkedin</a>
 
 <h1 align="center">Here is my first CVE;</h1>
-<a href="https://lzzapsecurity.com/tr/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022 & CVE-2024-29023 Write-Up</a>
+<a href="https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022 & CVE-2024-29023 Write-Up</a>
 
