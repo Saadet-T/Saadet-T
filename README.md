@@ -9,7 +9,7 @@ I specialize in penetration testing, identifying security vulnerabilities, and r
 <h1 align="center"><b>Little More Info;</b></h1>
 - 🔭 I’m currently working as Cyber Security Consultant<br>
 - 👻 Focusing on improving my skills in mobile application security, preparing for certificates and searching for bugs.<br>
-- 👽 Certified with eWPTX , eJPT, CAPen & BSCP.
+- 👽 Certified with eWPTX , eJPT, CAPen , BSCP & PWPP.
 
 <h1 align="center"><b>Contact Information & Blogs;</b></h1>
 - <a href="https://lzzapsecurity.com">LzzapS3curity WebSite (TR & EN) </a><br>
