@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hey there! I'm lzzaps3c
 
-<!--
-**Saadet-T/Saadet-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 I'm a passionate cybersecurity researcher & ethical hacker, always on the hunt for bugs and vulnerabilities in the wild.
 
-Here are some ideas to get you started:
+## 🧠 Who Am I?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👽 Certified with:
+  - **eWPTX** – Web Penetration Testing Extreme  
+  - **eJPT** – Junior Penetration Tester  
+  - **CAPen** – Certified Application Penetration Tester  
+  - **BSCP** – Burp Suite Certified Practitioner  
+  - **PWPP** – Practical Web Pentest Professional
+
+- 🧨 [CVE-2024-29022 & CVE-2024-29023 Write-Up](https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html)
+
+- 🌐 [LzzapS3curity WebSite (TR & EN)](https://lzzapsecurity.com)
+
+## 🧰 Toolbox
+
+- Offensive Security 
+- Web Application Security  
+- Vulnerability Research  
+- Exploit Development  
+- Python, Bash, Burp Suite, Nmap, and more...
+
+## 📫 Let's connect
+
+I'm always open to collaboration, CTFs, bug bounties, or simply chatting about security!
+
+- 🌍 [Website](https://lzzapsecurity.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/saadet-elif/)  
+
+```text
+( っ◔◡◔)っ 💻 CODE WITH CHAOS, HACK WITH LOVE!
+             ↳ lzzaps3c was here 💜
