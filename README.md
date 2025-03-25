@@ -13,6 +13,7 @@
 
 - 🧨 [CVE-2024-29022 & CVE-2024-29023 Write-Up](https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html)
 
+- 🌐 [LzzapS3curity WebSite (TR & EN)](https://lzzapsecurity.com)
 
 ## 🧰 Toolbox
 
@@ -26,7 +27,6 @@
 
 I'm always open to collaboration, CTFs, bug bounties, or simply chatting about security!
 
-- 🌍 [Website](https://lzzapsecurity.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saadet-elif/)  
 
 ```text
