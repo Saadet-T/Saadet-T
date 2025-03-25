@@ -13,7 +13,6 @@
 
 - 🧨 [CVE-2024-29022 & CVE-2024-29023 Write-Up](https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html)
 
-- 🌐 [LzzapS3curity WebSite (TR & EN)](https://lzzapsecurity.com)
 
 ## 🧰 Toolbox
 
