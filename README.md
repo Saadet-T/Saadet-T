@@ -5,6 +5,7 @@
 ## 🧠 Who Am I?
 
 - 👽 Certified with:
+- - **eCPPT** – Certified Professional Penetration Tester
   - **eWPTX** – Web Penetration Testing Extreme  
   - **eJPT** – Junior Penetration Tester  
   - **CAPen** – Certified Application Penetration Tester  
