@@ -1,8 +1,9 @@
 # 👋 Hey there! I'm lzzaps3c
 
-🔐 I'm a passionate cybersecurity researcher & ethical hacker, always on the hunt for bugs and vulnerabilities in the wild.
+
 
 ## 🧠 Who Am I?
+I'm a passionate cybersecurity researcher.
 
 - 👽 Certified with:
 - - **eCPPT** – Certified Professional Penetration Tester
