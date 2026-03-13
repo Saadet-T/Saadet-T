@@ -15,25 +15,13 @@
 
 ### `certifications`
 
-- **eCPPT** — Certified Professional Penetration Tester
-- **eWPTX** — Web Penetration Testing eXtreme
-- **eJPT** — Junior Penetration Tester
-- **CAPen** — Certified Application Penetration Tester
-- **BSCP** — Burp Suite Certified Practitioner
-- **PWPP** — Practical Web Pentest Professional
+`eCPPT` | `eWPTX` | `eJPT` | `CAPen` | `BSCP` | `PWPP`
 
 ---
 
 ### `cve.log`
 
-```diff
-+ CVE-2024-29022  [PUBLISHED]
-+ CVE-2024-29023  [PUBLISHED]
-+ CVE-2025-2154   [PUBLISHED]
-+ CVE-2025-2155   [PUBLISHED]
-+ CVE-2025-68109  [PUBLISHED]
-+ CVE-2025-68110  [PUBLISHED]
-```
+`CVE-2024-29022` | `CVE-2024-29023` | `CVE-2025-2154` | `CVE-2025-2155` | `CVE-2025-68109` | `CVE-2025-68110`
 
 <a href="https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html">
 <img src="https://img.shields.io/badge/📄_Read_the_Full_Write--Up-bd93f9?style=for-the-badge&labelColor=0d1117"/>
