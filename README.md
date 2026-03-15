@@ -1,8 +1,6 @@
 <div align="center">
 
   # `lzzaps3c`
-
-**A woman who works on gaining what she already has.**
 <br>
 > *"I don't look for doors. I make my own."*
 <br>
