@@ -2,11 +2,8 @@
 
   # `lzzaps3c`
 <br>
-> *"I don't look for doors. I make my own."*
+"I don't look for doors. I make my own."
 <br>
-
-<img src="https://img.shields.io/badge/FOCUS-Offensive%20Security-bd93f9?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/MODE-Dark-6e40c9?style=for-the-badge&labelColor=0d1117"/>
 
 ---
 
@@ -37,14 +34,6 @@
 </a>
 
 ---
-
-<br>
-<pre align="center">
-┌──(lzzaps3c㉿world)─[~/life]
-└─$ echo "She already won. She's just collecting the proof."
-</pre>
-
-<br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadet-T&bg_color=0d1117&color=bd93f9&line=6e40c9&point=ff79c6&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
 
