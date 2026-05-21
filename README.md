@@ -35,13 +35,6 @@
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saadet-T&bg_color=0d1117&color=bd93f9&line=6e40c9&point=ff79c6&area=true&area_color=6e40c9&hide_border=true" width="95%"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Saadet-T&theme=midnight-purple&hide_border=true&background=0D1117&ring=BD93F9&fire=FF79C6&currStreakLabel=BD93F9" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Saadet-T&show_icons=true&bg_color=0d1117&title_color=bd93f9&text_color=8b949e&icon_color=ff79c6&hide_border=true" width="49%"/>
-
 <br><br>
 
 <sub>*code with chaos. hack with love. leave no trace — except the CVEs.* 💜</sub>
