@@ -18,7 +18,8 @@
 
 `CVE-2024-29022` | `CVE-2024-29023` | `CVE-2025-2154` | `CVE-2025-2155` | `CVE-2025-68109` | `CVE-2025-68110`
 
-<a href="https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html">
+<a href="https://lzzapsecurity.com/en/blogs/CVE-2024-29022&CVE-2024-29023.html">CVE-2024-29022&CVE-2024-29023</a>
+ <a href="https://lzzapsecurity.com/en/blogs/HowtoEng.html">CVE-2026-48780</a>
 <img src="https://img.shields.io/badge/📄_Read_the_Full_Write--Up-bd93f9?style=for-the-badge&labelColor=0d1117"/>
 </a>
 
